@@ -30,4 +30,4 @@ Locally maintained application settings and preferences may be retained until de
 
 ## Contact
 
-For privacy-related inquiries, contact: **[mightymorphinchris@gmail.com]**.
+For privacy-related inquiries, contact: **[marketplace-privacy.public257@simplelogin.com]**.
